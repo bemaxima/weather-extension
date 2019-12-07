@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component render in a state that user does not allow browser to acquire location info 1`] = `
+<DocumentFragment>
+  <div
+    class="app loading"
+  >
+    <div
+      class="loader"
+      data-testid="loading"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App component shows a complete test scenario which user click on celsius link 1`] = `
+<DocumentFragment>
+  <div
+    class="app loading"
+  >
+    <div
+      class="loader"
+      data-testid="loading"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App component shows a complete test scenario which user click on celsius link 2`] = `
+<DocumentFragment>
+  <div
+    class="app loading"
+  >
+    <div
+      class="loader"
+      data-testid="loading"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App component shows a complete test scenario which user click on fahrenheit link 1`] = `
+<DocumentFragment>
+  <div
+    class="app loading"
+  >
+    <div
+      class="loader"
+      data-testid="loading"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App component shows a complete test scenario which user click on fahrenheit link 2`] = `
+<DocumentFragment>
+  <div
+    class="app loading"
+  >
+    <div
+      class="loader"
+      data-testid="loading"
+    />
+  </div>
+</DocumentFragment>
+`;
